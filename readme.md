@@ -1,6 +1,6 @@
 # Title
 
-Simple (or clever and funny?) description
+Do you know how to spell? No? That's okay.
 
 ## Table of Contents
 
@@ -12,7 +12,7 @@ Simple (or clever and funny?) description
 
 ## Background
 
-This is why this application exists.
+When typing quickly, errors in spelling can be made and sometimes missed. This code takes a misspelled word and suggests the same word but spelled correctly.
 
 ## Install
 
